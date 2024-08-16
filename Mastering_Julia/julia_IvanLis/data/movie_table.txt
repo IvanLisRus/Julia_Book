@@ -1,0 +1,52 @@
+╒═════════════════════════════╤══════════════════════════════╤══════════════════════════════╕
+│a                            │m                             │d                             │
+╞═════════════════════════════╪══════════════════════════════╪══════════════════════════════╡
+│{born: 1956, name: Tom Hanks}│{tagline: Everything is connec│{born: 1967, name: Andy Wachow│
+│                             │ted, title: Cloud Atlas, relea│ski}                          │
+│                             │sed: 2012}                    │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: Everything is connec│{born: 1965, name: Lana Wachow│
+│                             │ted, title: Cloud Atlas, relea│ski}                          │
+│                             │sed: 2012}                    │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: In every life there │{born: 1956, name: Tom Hanks} │
+│                             │comes a time when that thing y│                              │
+│                             │ou dream becomes that thing yo│                              │
+│                             │u do, title: That Thing You Do│                              │
+│                             │, released: 1996}             │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: A story of love, lav│{born: 1950, name: John Patric│
+│                             │a and burning desire., title: │k Stanley}                    │
+│                             │Joe Versus the Volcano, releas│                              │
+│                             │ed: 1990}                     │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: What if someone you │{born: 1941, name: Nora Ephron│
+│                             │never met, someone you never s│}                             │
+│                             │aw, someone you never knew was│                              │
+│                             │ the only someone for you?, ti│                              │
+│                             │tle: Sleepless in Seattle, rel│                              │
+│                             │eased: 1993}                  │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: At odds in life... i│{born: 1941, name: Nora Ephron│
+│                             │n love on-line., title: You've│}                             │
+│                             │ Got Mail, released: 1998}    │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: A stiff drink. A lit│{born: 1931, name: Mike Nichol│
+│                             │tle mascara. A lot of nerve. W│s}                            │
+│                             │ho said they couldn't bring do│                              │
+│                             │wn the Soviet empire., title: │                              │
+│                             │Charlie Wilson's War, released│                              │
+│                             │: 2007}                       │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: Everything is connec│{born: 1965, name: Tom Tykwer}│
+│                             │ted, title: Cloud Atlas, relea│                              │
+│                             │sed: 2012}                    │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: Houston, we have a p│{born: 1954, name: Ron Howard}│
+│                             │roblem., title: Apollo 13, rel│                              │
+│                             │eased: 1995}                  │                              │
+├─────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│{born: 1956, name: Tom Hanks}│{tagline: Break The Codes, tit│{born: 1954, name: Ron Howard}│
+│                             │le: The Da Vinci Code, release│                              │
+│                             │d: 2006}                      │                              │
+└─────────────────────────────┴──────────────────────────────┴──────────────────────────────┘

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="100mm" height="86.6mm" viewBox="0 0 100 86.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g fill="#6495ED" id="img-70f4edd2-1">
+  <g fill="#CD00CD" id="img-70f4edd2-2">
+    <path d="M80,21.65 L 66 21.65 70 4.33 z"/>
+  </g>
+  <g fill="#FF0000" id="img-70f4edd2-3">
+    <rect x="35" y="5.2" width="20" height="15.59"/>
+  </g>
+  <use xlink:href="#img-70f4edd2-4" x="17.5" y="12.99"/>
+</g>
+<defs>
+  <g id="img-70f4edd2-4">
+    <circle cx="0" cy="0" r="7.5"/>
+  </g>
+</defs>
+</svg>
